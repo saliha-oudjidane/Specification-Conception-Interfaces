@@ -1,0 +1,12 @@
+body {
+    display: block;
+    margin: 0px !important;
+}
+
+
+#divshowimage{
+	margin: auto;
+}
+#counter{
+	display: none;
+}
